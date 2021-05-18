@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/26731306/android-is-it-possible-to-get-other-apps-notification-info
+https://stackoverflow.com/questions/32316002/get-the-name-icon-and-package-name-of-all-the-installed-applications-in-android
